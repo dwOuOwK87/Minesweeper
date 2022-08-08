@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\VS project\SFML001\SFML001\Source.cpp(202,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 350 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  SFML001.vcxproj -> D:\VS project\SFML001\Release\SFML001.exe
