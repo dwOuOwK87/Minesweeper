@@ -2,9 +2,8 @@
 
 I made this game by using SFML.
 
-To play the game, just open the Release folder and open SFML001.exe
+To play the game, open the Release folder and open SFML001.exe.
 
-To open the project in VS studio,there is only one thing you have to do.
+To open the project, open SFML001.sln by Visual studio.
 
-Create a foldar called "External", pull out folders called "include" and "lib" from SFML-2.5.1.rar.
-Then put those two folder into External.
+Tell me if you meet any errors.
